@@ -3,7 +3,10 @@ UT Austin Coding Bootcamp Challenge 1
 
 ## Description
 
-The included index.html and style.css files have been refactored for accessability standards. Refactoring includes semantic HTML elements, functional links, accessible alt attributes for icons and images, sewquential heading attrebutes, and descriptive title. 
+The included index.html and style.css files have been refactored for accessibility standards for Horiseon Social Solutions.
+The additions will allow for increased efficiency functionality and for future modifications.
+There are multiple cosolidations on the CSS file that decrease repetitive rules 
+Through this process we can see the refactoring process to gain a better understanding of semantic HTML elements, functional links, accessible alt attributes, sequential heading attributes, and descriptive title. 
 
 URL: 
 
@@ -14,7 +17,9 @@ N/A
 
 ## Usage
 
-Review depolyed URL and github repository for the refactored documents from Horiseon Social Solution Services
+Review depolyed URL and github repository for the refactored documents from Horiseon Social Solution Services 
+
+The following image shows a screenshot of the website: <img src="assets\images\screenshot.png">
 
 ## Credits
 
